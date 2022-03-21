@@ -24,7 +24,7 @@
     },
     "Ingredients":"avocado, celery, lemon juice, hot sauce, Pinch of salt, hard-boiled eggs, whole-wheat toast",
     "category":"BreakFast",
-    "price":"50"
+    "price":50
    },
    {
     "name": "Peanut Butter-Banana English Muffin",
@@ -50,7 +50,7 @@
     },
     "Ingredients":"whole-wheat English toasted muffin , peanut butter, sliced banana, Pinch of ground cinnamon",
     "category":"BreakFast",
-    "price":"35"
+    "price":35
 },
 {
     "name": "Avocado Egg Salad Sandwiches",
@@ -77,7 +77,7 @@
     },
     "Ingredients":"avocado, lemon juice, avocado oil, hard-boiled eggs chopped, chopped celery (about 1 stalk), fresh chives, whole-wheat sandwich toasted bread , 2 leaves lettuce ",
     "category":"BreakFast",
-    "price":"30"
+    "price":30
 
 },
 {
@@ -100,7 +100,7 @@
     },
     "Ingredients":"1 teaspoon ground cinnamon, whole-milk Greek yogurt,  creamy natural peanut butter well stirred, mashed banana , vanilla extract, toasted walnuts",
     "category":"BreakFast",
-    "price":"40"
+    "price":40
 
 },
 {
@@ -126,7 +126,7 @@
     },
     "Ingredients":"baby spinach, eggs, pepper, salt, whole-grain toasted bread, fresh raspberries",
     "category":"BreakFast",
-    "price":"45"
+    "price":45
 
 },
 { 
@@ -152,7 +152,7 @@
     },
     "Ingredients":"sweet potato , chopped shallot, garlic, olive oil, salt",
     "category":"BreakFast",
-    "price":"30"
+    "price":30
     
 },
 {
@@ -179,7 +179,7 @@
     },
     "Ingredients":"avocado, whole-wheat sandwich bread, avocado oil, eggs, salt, pepper, salsa",
     "category":"BreakFast",
-    "price":"35"
+    "price":35
     
 },
 {
@@ -205,7 +205,7 @@
     },
     "Ingredients":"rolled oats, milk, pumpkin puree, maple syrup, vanilla extract, cinnamon, Pinch of salt",
     "category":"BreakFast",
-    "price":"50"
+    "price":50
 
 },
 {
@@ -228,7 +228,7 @@
     },
     "Ingredients":"avocado, teaspoon lime juice, Pinch of salt, hard-boiled chopped eggs, warmed tortillas, chopped spinach, shredded Cheddar cheese, salsa",
     "category":"BreakFast",
-    "price":"30"
+    "price":30
 
 },
 {
@@ -251,7 +251,7 @@
     },
     "Ingredients":"reduced-fat cream cheese, whole-wheat toasted bread, slices cucumber, pink salmon, chopped red onion, fresh dill weed",
     "category":"BreakFast",
-    "price":"55"
+    "price":55
 
 },
 {
@@ -279,7 +279,7 @@
     },
     "Ingredients":"beef, chopped green cabbage, yellow onion, chopped carrots, chopped celery, whole-wheat toast, light brown sugar, paprika, salt, pepper, unsalted chicken broth, medium-grain brown rice, chopped fresh flat-leaf parsley",
     "category":"Lunch",
-    "price":"55"
+    "price":55
 },
 {
     "name": "Shrimp & Crab Gumbo",
@@ -305,7 +305,7 @@
     },
     "Ingredients":"dried crushed thyme, pepper, salt, large shrimp, chopped onion, celery, crabmeat, long-grain rice or brown rice, Scallions, hot pepper sauce",
     "category":"Lunch",
-    "price":"60"
+    "price":60
 },
 {
     "name": "Shrimp Jambalaya",
@@ -331,7 +331,7 @@
     },
     "Ingredients":"medium shrimp, olive oil, Cajun seasoning, chopped green sweet pepper, chopped onion, chopped celery, chopped tomatoes, tomato paste, bottled hot pepper sauce, salt, cooked brown rice,  sliced green onions",
     "category":"Lunch",
-    "price":"70"
+    "price":70
 },
 {
     "name": "Skillet Honey-Garlic Chicken Thighs",
@@ -357,7 +357,7 @@
     },
     "Ingredients":"chicken thighs, pepper, hot honey, soy sauce, salt, sherry vinegar, cold unsalted butter, thinly sliced fresh chives",
     "category":"Lunch",
-    "price":"65"
+    "price":65
 },
 {
     "name": "Cheesy Ground Beef & Cauliflower Casserole",
@@ -380,7 +380,7 @@
     },
     "Ingredients":"olive oil, chopped onion, green chopped pepper, beef, cauliflower, chili powder, cumin, salt, tomatoes, shredded extra-sharp Cheddar cheese",
     "category":"Lunch",
-    "price":"60"
+    "price":60
     
 },
 {
@@ -404,7 +404,7 @@
     },
     "Ingredients":"olive oil, lemons, chicken thighs, salt, Gold potatoes, dried thyme, dried rosemary, honey, pepper",
     "category":"Lunch",
-    "price":"65"
+    "price":65
 },
 {
     "name": "One-Pot Pasta with Tuna",
@@ -429,7 +429,7 @@
     },
     "Ingredients":" whole-wheat spaghetti, olives, fresh lemon, salt, pepper, tuna, chopped fresh dill, olive oil",
     "category":"Lunch",
-    "price":"80"
+    "price":80
 
 },
 {
@@ -455,7 +455,7 @@
     },
     "Ingredients":"fish, salt, mayonnaise, breadcrumbs, sour cream, packed finely chopped fresh dill, lime juice, pepper, brown rice, shredded cabbage, sliced radishes",
     "category":"Lunch",
-    "price":"75"
+    "price":75
 
 },
 {
@@ -482,7 +482,7 @@
     },
     "Ingredients":"whole-wheat spaghetti, toasted (dark) sesame oil, scallions, ketchup, soy sauce, ginger, chicken, carrots, sliced snap peas, toasted sesame seeds ",
     "category":"Lunch",
-    "price":"65"
+    "price":65
 },
 {
      
@@ -508,7 +508,7 @@
     },
     "Ingredients":"pad thai rice noodles, lean ground beef, peas, carrots, chopped scallions, pad thai sauce, Chopped peanuts and lime wedges for serving",
     "category":"Lunch",
-    "price":"65"
+    "price":65
 
 },
 {
@@ -534,7 +534,7 @@
     },
     "Ingredients":" bread, avocado, hummus, Pinch of salt, Pinch of salt, cucumber, tomato, shredded carrot, peeled clementine",
     "category":"Dinner",
-    "price":"30"
+    "price":30
 
 },
 {
@@ -561,7 +561,7 @@
     },
     "Ingredients":"cream cheese, yogurt, sliced fresh chives, chopped fresh dill, pepper, whole-wheat sandwich bread, sliced cucumber",
     "category":"Dinner",
-    "price":"35"
+    "price":35
 },
 {
     "name": "Air-Fryer Salmon Cakes",
@@ -587,7 +587,7 @@
     },
     "Ingredients":"pink salmon, large egg, whole-wheat panko breadcrumbs, chopped fresh dill, mayonnaise, mustard, pepper, lemon wedges",
     "category":"Dinner",
-    "price":"60"
+    "price":60
 },
 {
     "name": "Broccoli & Cauliflower Casserole",
@@ -610,7 +610,7 @@
     },
     "Ingredients":"cauliflower, broccoli, butter, milk, cream cheese, garlic powder, onion powder, pepper, salt, Cheddar cheese, breadcrumbs, Parmesan cheese",
     "category":"Dinner",
-    "price":"55"
+    "price":55
 },
 {
     "name": "Skillet Ravioli Lasagna",
@@ -636,7 +636,7 @@
     },
     "Ingredients":"cheese, beef, garlic powder, salt, pepper, crushed tomatoes, chopped fresh basil, small fresh mozzarella balls",
     "category":"Dinner",
-    "price":"50"
+    "price":50
 },
 {
     "name": "Easy Pea & Spinach Carbonara",
@@ -662,7 +662,7 @@
     },
     "Ingredients":"olive oil, breadcrumbs, Parmesan cheese, chopped fresh parsley, eggs, pepper, salt, package fresh tagliatelle or linguine, spinach, peas ",
     "category":"Dinner",
-    "price":"40"
+    "price":40
 },
 {
     "name": "One-Pot Chicken & Broccoli Pasta",
@@ -685,7 +685,7 @@
     },
     "Ingredients":"chicken, small shell pasta, olive oil, sauce, tomato paste, pepper, salt, broccoli, yogurt, Parmesan cheese, chopped fresh dill",
     "category":"Dinner",
-    "price":"85"
+    "price":85
 
 },
 {
@@ -708,7 +708,7 @@
     },
     "Ingredients":"butter, red bell pepper, zucchini, jalapeño pepper, broccoli, whole-wheat bread, Cheddar cheese, tomato soup",
     "category":"Dinner",
-    "price":"45"
+    "price":45
 
 },
 {
@@ -731,7 +731,7 @@
     },
     "Ingredients":"soy sauce, fresh ginger, sesame oil, olive oil, chile-garlic sauce, mirin, cornstarch, broccoli, scallions, shrimp, brown rice ",
     "category":"Dinner",
-    "price":"85"
+    "price":85
 
 },
 {
@@ -754,7 +754,7 @@
     },
     "Ingredients":"cavatappi or rotini, olive oil, sliced onion, chopped broccoli, salt, crushed red pepper, mascarpone cheese, yogurt, garlic powder, Parmesan cheese ",
     "category":"Dinner",
-    "price":"60"
+    "price":60
 
 }
 ]

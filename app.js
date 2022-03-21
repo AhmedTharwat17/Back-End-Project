@@ -21,6 +21,7 @@ app.use(express.static('uploadImage'))
 mainRoutes(app)
 foodRoutes(app)
 app.use('/users', require('./routes/users_routes'))
+app.use('/gmail', require('./routes/sendmail_routes'))
 
 app.use(errorHandler)
 

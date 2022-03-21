@@ -27,7 +27,7 @@ const asyncHandler = require('express-async-handler')
     })
 
     if (user) {
-      res.send("Successful Registration")
+      res.json({message : "Successful Registration"})
     } else {
       res.status(400)
       throw new Error('Invalid user data')
